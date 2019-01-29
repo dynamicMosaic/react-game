@@ -1,0 +1,15 @@
+.tile {
+    display : inline-flex;
+}
+
+.rock {
+    background-color: green;
+}
+/* 
+.tree {
+    background-image: url('')
+} */
+
+.grass {
+    background-color: green
+}
